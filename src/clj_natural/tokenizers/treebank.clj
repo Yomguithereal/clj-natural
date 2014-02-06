@@ -6,7 +6,7 @@
 ;;   Author: PLIQUE Guillaume (Yomguithereal)
 ;;   Version: 0.1
 ;;
-(ns clj-natural.treebank
+(ns clj-natural.tokenizers.treebank
   (:require clojure.string)
   (:use [clj-fuzzy.helpers :only [batch-replace]]))
 

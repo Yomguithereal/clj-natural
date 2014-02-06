@@ -4,4 +4,4 @@
   :license {:name "MIT"
             :url "http://opensource.org/licenses/MIT"}
   :dependencies [[org.clojure/clojure "1.5.1"]
-                 [clj-fuzzy "0.1.4"]])
+                 [clj-fuzzy "0.1.5"]])
