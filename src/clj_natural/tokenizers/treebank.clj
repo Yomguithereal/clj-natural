@@ -75,4 +75,4 @@
                             (apply-contractions)
                             (clojure.string/split #" "))]
     (map clojure.string/trim
-         (filter (complement empty?) prepared-string))))
+         (remove empty? prepared-string))))
